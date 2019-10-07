@@ -1,1 +1,1 @@
-web: gunicorn arashi.wsgi --log-file -
+web: gunicorn project3.wsgi --log-file -
