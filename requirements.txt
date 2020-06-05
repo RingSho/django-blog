@@ -1,7 +1,7 @@
 configobj==5.0.6
 dj-database-url==0.5.0
 dj-static==0.0.6
-Django==2.2.0
+Django==2.2.13
 django-toolbelt==0.0.1
 h5py==2.6.0
 imageio==2.3.0
